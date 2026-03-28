@@ -2,8 +2,6 @@ Phishing Attack
 
 Phishing is a common cybercrime where attackers attempt to steal sensitive information by pretending to be a trusted organization. The attack usually begins with an email, SMS, or social media message that appears legitimate. The message may claim to be from a bank, university, payment service, or well known website. It often creates urgency by stating that the user’s account will be blocked, payment has failed, or immediate verification is required. These messages typically include a link that redirects the victim to a fake website designed to look almost identical to the original.
 
-
 When the victim enters login credentials, personal details, or banking information on the fake website, the attacker collects the data. In some cases, phishing messages also contain attachments that install malicious software. Students are often targeted through fake internship offers, scholarship announcements, or password reset emails. Because these messages appear relevant, users may trust them without verification.
-
 
 Once attackers gain access, they may misuse accounts, steal money, or perform identity theft. Victims can lose access to email or social media accounts, and personal information may be exposed. Phishing attacks rely on urgency and trust, making them effective. Carefully checking links, verifying senders, and avoiding suspicious messages can help prevent such incidents.
